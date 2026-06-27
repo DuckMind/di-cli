@@ -1,0 +1,36 @@
+{
+  "commit": "5c93270ac35420139c846493a018aadadf72d45e",
+  "version": "duckink v0.0.0-20260627102517-5c93270ac354",
+  "artifacts": [
+    {
+      "target": "darwin/arm64",
+      "file": "duckink-darwin-arm64",
+      "bytes": 16800674,
+      "sha256": "80b3cdd1d17308bc114c6626c5b28fc2d50946cddbe8bb0ffdb03af135dafade"
+    },
+    {
+      "target": "darwin/amd64",
+      "file": "duckink-darwin-amd64",
+      "bytes": 18008128,
+      "sha256": "a77839d5d9eb8bd63469c5fc2edf2e30be21f6c8f2332bd14ce9698b38d04bb9"
+    },
+    {
+      "target": "linux/amd64",
+      "file": "duckink-linux-amd64",
+      "bytes": 17686658,
+      "sha256": "708a7ab7cb34806aba24fe03f3237ee107c7599e2d25470c6f79ad32c2dc7444"
+    },
+    {
+      "target": "linux/arm64",
+      "file": "duckink-linux-arm64",
+      "bytes": 16406723,
+      "sha256": "df7ec1b44c59a79d53129a6d3802896962f34ff88ba8aaf08cbe82b68dac59e7"
+    },
+    {
+      "target": "windows/amd64",
+      "file": "duckink-windows-amd64.exe",
+      "bytes": 17937408,
+      "sha256": "4770d519a10f67032c0f0a8f4fc1722e7708dae949784dda47ae7bad736fb273"
+    }
+  ]
+}
