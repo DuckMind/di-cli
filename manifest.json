@@ -1,36 +1,38 @@
 {
-  "commit": "5c93270ac35420139c846493a018aadadf72d45e",
-  "version": "duckink v0.0.0-20260627102517-5c93270ac354",
+  "tag": "v0.0.1",
+  "commit": "ef582722f421fff53f45f843ed1461fbe7ba8bf4",
+  "built_at": "2026-06-27T10:46:06Z",
+  "version": "duckink v0.0.1",
   "artifacts": [
     {
       "target": "darwin/arm64",
-      "file": "duckink-darwin-arm64",
-      "bytes": 16800674,
-      "sha256": "80b3cdd1d17308bc114c6626c5b28fc2d50946cddbe8bb0ffdb03af135dafade"
+      "file": "macos/duckink-arm64",
+      "bytes": 16800786,
+      "sha256": "b72b77be42329e5d0ef08c4f718ff7e5fef177aab163125f9f0722a145113d98"
     },
     {
       "target": "darwin/amd64",
-      "file": "duckink-darwin-amd64",
-      "bytes": 18008128,
-      "sha256": "a77839d5d9eb8bd63469c5fc2edf2e30be21f6c8f2332bd14ce9698b38d04bb9"
+      "file": "macos/duckink-amd64",
+      "bytes": 18008224,
+      "sha256": "d7eda5b763fab57c18b009c45144117a631a6b69523b28110f888ba919d27101"
     },
     {
       "target": "linux/amd64",
-      "file": "duckink-linux-amd64",
-      "bytes": 17686658,
-      "sha256": "708a7ab7cb34806aba24fe03f3237ee107c7599e2d25470c6f79ad32c2dc7444"
+      "file": "linux/duckink-amd64",
+      "bytes": 17686777,
+      "sha256": "65c7c9727384682ba0a24a8d395d186ea5f3695dd40f755380f30d6bbfae0190"
     },
     {
       "target": "linux/arm64",
-      "file": "duckink-linux-arm64",
-      "bytes": 16406723,
-      "sha256": "df7ec1b44c59a79d53129a6d3802896962f34ff88ba8aaf08cbe82b68dac59e7"
+      "file": "linux/duckink-arm64",
+      "bytes": 16406842,
+      "sha256": "95a73c21c35298c35ca3f33b7dee8eb8fbbc18ab5c8f7bd9c803a1372d4a368e"
     },
     {
       "target": "windows/amd64",
-      "file": "duckink-windows-amd64.exe",
+      "file": "windows/duckink-amd64.exe",
       "bytes": 17937408,
-      "sha256": "4770d519a10f67032c0f0a8f4fc1722e7708dae949784dda47ae7bad736fb273"
+      "sha256": "a17b0b11f612d14842bfe79c413d3a3fbc43669045f1e03d58d92be5b57b8d76"
     }
   ]
 }
