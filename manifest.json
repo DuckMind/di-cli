@@ -1,38 +1,45 @@
 {
   "tag": "v0.0.1",
-  "commit": "ef582722f421fff53f45f843ed1461fbe7ba8bf4",
-  "built_at": "2026-06-27T10:46:06Z",
+  "commit": "82c7c4c6ed92c8ffd3226bfd62463baeb9f90adc",
+  "built_at": "2026-06-27T12:19:49Z",
   "version": "duckink v0.0.1",
+  "format": "tar.gz",
   "artifacts": [
     {
       "target": "darwin/arm64",
-      "file": "macos/duckink-arm64",
-      "bytes": 16800786,
-      "sha256": "b72b77be42329e5d0ef08c4f718ff7e5fef177aab163125f9f0722a145113d98"
+      "file": "packages/duckink-v0.0.1-macos-arm64.tar.gz",
+      "bytes": 8701904,
+      "sha256": "188b5f60410e0901804b4d854d229aa8fe0fa8e411f84cc91eee1214edc55b9c",
+      "contains": "duckink-v0.0.1-macos-arm64/duckink",
+      "version": "duckink v0.0.1"
     },
     {
       "target": "darwin/amd64",
-      "file": "macos/duckink-amd64",
-      "bytes": 18008224,
-      "sha256": "d7eda5b763fab57c18b009c45144117a631a6b69523b28110f888ba919d27101"
+      "file": "packages/duckink-v0.0.1-macos-amd64.tar.gz",
+      "bytes": 9287403,
+      "sha256": "7fd38130d49f8cb059cf03d6a81e6ef46516cbf6b9d962400934d01bb7094e09",
+      "contains": "duckink-v0.0.1-macos-amd64/duckink"
     },
     {
       "target": "linux/amd64",
-      "file": "linux/duckink-amd64",
-      "bytes": 17686777,
-      "sha256": "65c7c9727384682ba0a24a8d395d186ea5f3695dd40f755380f30d6bbfae0190"
+      "file": "packages/duckink-v0.0.1-linux-amd64.tar.gz",
+      "bytes": 9099582,
+      "sha256": "57e359a3e7822a40901e3e5c6ae2e107195cfbedab19aef87144f94b13ffacc8",
+      "contains": "duckink-v0.0.1-linux-amd64/duckink"
     },
     {
       "target": "linux/arm64",
-      "file": "linux/duckink-arm64",
-      "bytes": 16406842,
-      "sha256": "95a73c21c35298c35ca3f33b7dee8eb8fbbc18ab5c8f7bd9c803a1372d4a368e"
+      "file": "packages/duckink-v0.0.1-linux-arm64.tar.gz",
+      "bytes": 8319906,
+      "sha256": "0fa308a78ee180be438b93a5cfd89ed6b2a827e271f51e6755d3c1c16672c3fe",
+      "contains": "duckink-v0.0.1-linux-arm64/duckink"
     },
     {
       "target": "windows/amd64",
-      "file": "windows/duckink-amd64.exe",
-      "bytes": 17937408,
-      "sha256": "a17b0b11f612d14842bfe79c413d3a3fbc43669045f1e03d58d92be5b57b8d76"
+      "file": "packages/duckink-v0.0.1-windows-amd64.tar.gz",
+      "bytes": 9171295,
+      "sha256": "20c15b1b107cfda42130c7970a3357e3eae649841e36344c06187f3ddea2ba93",
+      "contains": "duckink-v0.0.1-windows-amd64/duckink.exe"
     }
   ]
 }
